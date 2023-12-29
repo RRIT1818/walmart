@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>RRIT Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226  ,Bengaluru,Karnataka.</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to RRIT Technologies Pvt Ltd. Ph No: +91-123456789  ,Aswaraopeta ,Bhadradrikothagudem.</h1>
+<h1 align="center"> RRIT Technologies- Very Good Training center for DevOps with AWS in Aswaraopeta India.Teaching Real Time scnerios</h1>
 <h1>RRIT</h1>
 <hr>
 <br>

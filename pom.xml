@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.207.52.4:8081/repository/RR/</url>
+	      <url>http://100.24.72.20:8081/repository/rr/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.207.52.4:8081/repository/rrit-sn/</url>
+	      <url>http://100.24.72.20:8081/repository/rr-sn/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
